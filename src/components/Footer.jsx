@@ -168,7 +168,7 @@ export default function Footer() {
                 <LocationOnIcon fontSize="small" sx={{ color: "#22d3ee", mt: 0.3 }} />
                 <Typography variant="body2" sx={{ color: "rgba(255,255,255,0.65)" }}>
                   65-70/C, Krishna Vihar road2, Near King Palace Hotel,
-                  pratap nagar, Udaipur (RAJ.)
+                  Pratap Nagar, Udaipur (RAJ.)
                 </Typography>
               </Stack>
             </Stack>
