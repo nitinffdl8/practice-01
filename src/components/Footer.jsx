@@ -34,7 +34,7 @@ function BehanceIcon(props) {
 }
 // Update these URLs as each account goes live — Instagram is already wired.
 const SOCIAL_LINKS = [
-  { icon: FacebookIcon, url: "https://www.facebook.com/profile.php?id=100092682287400", label: "Facebook" },
+  { icon: FacebookIcon, url: "https://www.facebook.com/kloutzindia/", label: "Facebook" },
   { icon: InstagramIcon, url: "https://www.instagram.com/kloutzindia/?hl=en", label: "Instagram" },
   { icon: LinkedInIcon, url: "#", label: "LinkedIn" },
   { icon: BehanceIcon, url: "https://www.behance.net/nitinffdl", label: "Behance" },
