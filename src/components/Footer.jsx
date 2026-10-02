@@ -36,7 +36,7 @@ function BehanceIcon(props) {
 const SOCIAL_LINKS = [
   { icon: FacebookIcon, url: "https://www.facebook.com/kloutzindia/", label: "Facebook" },
   { icon: InstagramIcon, url: "https://www.instagram.com/kloutzindia/?hl=en", label: "Instagram" },
-  { icon: LinkedInIcon, url: "#", label: "LinkedIn" },
+  { icon: LinkedInIcon, url: "https://www.linkedin.com/in/nitin-ahuja-90295043b/", label: "LinkedIn" },
   { icon: BehanceIcon, url: "https://www.behance.net/nitinffdl", label: "Behance" },
 ];
 
